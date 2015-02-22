@@ -52,3 +52,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#Tokens for accessing twitter api
+keyfile.txt
